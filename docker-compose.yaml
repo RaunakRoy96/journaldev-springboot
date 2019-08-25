@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  spring-boot:
+    build: .
+    ports:
+     - '8030:8080'
