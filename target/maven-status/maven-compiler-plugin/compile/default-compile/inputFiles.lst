@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 E:\dev_ops_301\journaldev\Spring-Boot-REST\src\main\java\com\journaldev\spring\SpringBootRestApplication.java
 E:\dev_ops_301\journaldev\Spring-Boot-REST\src\main\java\com\journaldev\spring\PersonController.java
 E:\dev_ops_301\journaldev\Spring-Boot-REST\src\main\java\com\journaldev\spring\Person.java
+=======
+/home/devopsinfra/journaldev-spingboot/journaldev-springboot/src/main/java/com/journaldev/spring/Person.java
+/home/devopsinfra/journaldev-spingboot/journaldev-springboot/src/main/java/com/journaldev/spring/SpringBootRestApplication.java
+/home/devopsinfra/journaldev-spingboot/journaldev-springboot/src/main/java/com/journaldev/spring/PersonController.java
+>>>>>>> 2d7e209868a77c9045403a05d21ca001e7daa5b2
