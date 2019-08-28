@@ -18,6 +18,7 @@ public class PersonController {
 		return "OK2";
 	}
 	
+
 	@RequestMapping("/person/get")
 	public Person getPerson(@RequestParam(name="name", required=false, defaultValue="Unknown") String name) {
 		person.setName(name);
