@@ -1,0 +1,10 @@
+[all:vars]
+ansible_connection=ssh
+ansible_user=vagrant
+ansible_ssh_pass=vagrant
+
+[dev]
+10.0.0.4
+
+[qa]
+10.0.0.6
