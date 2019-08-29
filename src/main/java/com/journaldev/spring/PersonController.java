@@ -15,7 +15,7 @@ public class PersonController {
 	
 	@RequestMapping("/")
 	public String healthCheck() {
-		return "OK2";
+		return "OK3";
 	}
 	
 
