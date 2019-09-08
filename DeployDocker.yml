@@ -29,7 +29,7 @@
 
    - name: remove already running container
      docker:
-       image: raunakroy/springboot:latest
+       image: raunakroy/springboot:"{{ VERSION }}"
        name: deployedSpring
        expose: 8080
        ports:
@@ -42,7 +42,7 @@
        username: "{{ USERNAME }}"
        password: "{{ PASSWORD }}"
        name: deployedSpring
-       image: raunakroy/springboot:latest
+       image: raunakroy/springboot:"{{ VERSION }}"
        pull: always
        expose: 8080
        ports:
